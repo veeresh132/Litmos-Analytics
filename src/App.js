@@ -11,6 +11,9 @@ import Typography from '@material-ui/core/Typography';
 import Container from '@material-ui/core/Container';
 import litmos from './litmos2.png';
 
+function consoleLog() {
+  console.log('api call');
+}
 function App() {
   return (
     <body>
@@ -30,12 +33,11 @@ function App() {
         <p class="lead" style={{textAlign:'left', marginLeft:'80px', width:'700px', fontSize:'15px'}}> Welcome to the Litmos Aha! Analytics webpage: a site that provides live analytics on Aha! ideas for Litmos. The data is drawn from Aha!'s REST API and is updated upon request. 
         </p>
       </div>
-      <React.Fragment>
-        <CssBaseline />
-        <Container maxWidth="sm" style={{float:'left', marginLeft: '55px'}}>
-          <Typography component="div" style={{ backgroundColor: '#fef3bd', height: '100vh', width: '200vh', marginBottom:'50px'}} />
-        </Container>
-      </React.Fragment>
+      <form id="controls">
+        <input type="text" class="form-control" placeholder="Aha! subdomain" id="subdomain" style={{width:'300px', marginLeft:'80px'}}/>
+        <input type="text" class="form-control" placeholder="Product key" id="product-key" style={{width:'300px', marginLeft:'80px'}}/>
+        <button type="submit" class="btn btn-primary" onClick={() => consoleLog()} style={{marginLeft: '80px', width:'160px', height:'40px', marginTop:'10px'}}>Submit</button>
+      </form>
     </body>
   );
 }
