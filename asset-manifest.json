@@ -1,24 +1,28 @@
 {
   "files": {
     "main.css": "/Litmos-Analytics/static/css/main.5f361e03.chunk.css",
-    "main.js": "/Litmos-Analytics/static/js/main.310a8532.chunk.js",
-    "main.js.map": "/Litmos-Analytics/static/js/main.310a8532.chunk.js.map",
+    "main.js": "/Litmos-Analytics/static/js/main.ce585522.chunk.js",
+    "main.js.map": "/Litmos-Analytics/static/js/main.ce585522.chunk.js.map",
     "runtime-main.js": "/Litmos-Analytics/static/js/runtime-main.6dc644c4.js",
     "runtime-main.js.map": "/Litmos-Analytics/static/js/runtime-main.6dc644c4.js.map",
-    "static/js/2.3266a15a.chunk.js": "/Litmos-Analytics/static/js/2.3266a15a.chunk.js",
-    "static/js/2.3266a15a.chunk.js.map": "/Litmos-Analytics/static/js/2.3266a15a.chunk.js.map",
+    "static/css/2.e3344b1b.chunk.css": "/Litmos-Analytics/static/css/2.e3344b1b.chunk.css",
+    "static/js/2.77b9c429.chunk.js": "/Litmos-Analytics/static/js/2.77b9c429.chunk.js",
+    "static/js/2.77b9c429.chunk.js.map": "/Litmos-Analytics/static/js/2.77b9c429.chunk.js.map",
     "index.html": "/Litmos-Analytics/index.html",
-    "precache-manifest.967c1c906b619895c491bf2b1376ffff.js": "/Litmos-Analytics/precache-manifest.967c1c906b619895c491bf2b1376ffff.js",
+    "precache-manifest.91aee0117854967bcf18f277aeff5c1b.js": "/Litmos-Analytics/precache-manifest.91aee0117854967bcf18f277aeff5c1b.js",
     "service-worker.js": "/Litmos-Analytics/service-worker.js",
+    "static/css/2.e3344b1b.chunk.css.map": "/Litmos-Analytics/static/css/2.e3344b1b.chunk.css.map",
     "static/css/main.5f361e03.chunk.css.map": "/Litmos-Analytics/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.3266a15a.chunk.js.LICENSE.txt": "/Litmos-Analytics/static/js/2.3266a15a.chunk.js.LICENSE.txt",
-    "static/media/litmos2.png": "/Litmos-Analytics/static/media/litmos2.bcc3d988.png",
-    "static/media/logo.svg": "/Litmos-Analytics/static/media/logo.5d5d9eef.svg"
+    "static/js/2.77b9c429.chunk.js.LICENSE.txt": "/Litmos-Analytics/static/js/2.77b9c429.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/Litmos-Analytics/static/media/outline-icons.ef60a4f6.woff",
+    "static/media/feature3.png": "/Litmos-Analytics/static/media/feature3.26893e5d.png",
+    "static/media/litmos2.png": "/Litmos-Analytics/static/media/litmos2.bcc3d988.png"
   },
   "entrypoints": [
     "static/js/runtime-main.6dc644c4.js",
-    "static/js/2.3266a15a.chunk.js",
+    "static/css/2.e3344b1b.chunk.css",
+    "static/js/2.77b9c429.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.310a8532.chunk.js"
+    "static/js/main.ce585522.chunk.js"
   ]
 }
